@@ -8,7 +8,7 @@ Getting started
 
 For a first introduction to using Lily, please see:
 
-http://docs.outerthought.org/lily-docs-2_0/414-lily.html
+http://docs.ngdata.com/lily-docs-trunk/414-lily.html
 
 Prerequisites
 =============
