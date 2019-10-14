@@ -32,7 +32,7 @@
     <version.solr>4.4.0</version.solr>
     <version.httpclient>4.2.3</version.httpclient>
     <version.freemarker>2.3.19</version.freemarker>
-    <version.spring>3.2.1.RELEASE</version.spring>
+    <version.spring>5.2.0.RELEASE</version.spring>
     <version.log4j>1.2.16</version.log4j>
     <version.slf4j>1.6.1</version.slf4j>
     <version.jaxrs>1.1.1</version.jaxrs>
